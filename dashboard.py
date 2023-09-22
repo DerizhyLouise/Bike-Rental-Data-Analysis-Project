@@ -4,7 +4,7 @@ import seaborn as sns
 import streamlit as st
 from datetime import datetime
 
-dashboardDf = pd.read_csv("dashboard.csv")
+dashboardDf = pd.read_csv("dataset/dashboard.csv")
 
 def casualDashboard(df):
     st.subheader('Casual Users Rental')
