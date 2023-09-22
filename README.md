@@ -1,4 +1,4 @@
-# Bike-Rental-Data-Science-Project
+# Bike-Rental-Data-Analitic-Project
 
 This is Project of Dicoding's Course "Belajar Analisis Data dengan Python".
 I use Bike Sharing Dataset to deal with this project.
